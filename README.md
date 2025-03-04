@@ -1,8 +1,3 @@
-Below is a revised main README that covers both the Python analysis and SQL optimization tasks, while still touching on the original content. This version provides an overall project view, describes the two key tasks, and outlines the folder structure, prerequisites, and instructions for running each task.
-
----
-
-```markdown
 # Website Traffic and Donations Analysis
 
 ## Project Overview
