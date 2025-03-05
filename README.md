@@ -133,7 +133,7 @@ RETAIL_AND_WEBTRAFFIC_ANALYSIS/
 
 ## AI Utilization
 
-This project leverages AI tools to enhance productivity and code quality:
+This project leverages AI tools to enhance code quality:
 
 - **Python Task**:  
   GitHub Copilot was used to generate suggestions and improvements in the website traffic and donations analysis code. Its recommendations were carefully reviewed, tested, and refined to meet production standards.
