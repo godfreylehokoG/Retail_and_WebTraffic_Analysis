@@ -1,0 +1,6 @@
+The region with the highest total donation value is Asia with 45,271,829.41.
+The highest conversion rate is in Asia at 50.85%.
+The month with the highest donation value was Aug 2023 with 22,320,668.83.
+Over the analyzed period, monthly donation value has decreased by 5.3%.
+The day of the week with the highest donation value is Tuesday.
+The day with the highest conversion rate is Wednesday at 48.97%.

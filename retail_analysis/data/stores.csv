@@ -1,0 +1,121 @@
+store_id,store_name,location,open_status,store_type
+1,Store_1,Accra,Closed,Large
+2,Store_2,Lagos,Open,Medium
+3,Store_3,Durban,Open,Medium
+4,Store_4,Pretoria,Closed,Medium
+5,Store_5,Bloemfontein,Open,Medium
+6,Store_6,Port Elizabeth,Open,Medium
+7,Store_7,Cape Town,Closed,Large
+8,Store_8,Port Elizabeth,Open,Large
+9,Store_9,Accra,Closed,Small
+10,Store_10,Pretoria,Closed,Medium
+11,Store_11,Durban,Closed,Medium
+12,Store_12,Lagos,Closed,Medium
+13,Store_13,Nairobi,Open,Small
+14,Store_14,Johannesburg,Open,Large
+15,Store_15,Durban,Closed,Large
+16,Store_16,Bloemfontein,Open,Small
+17,Store_17,Bloemfontein,Closed,Large
+18,Store_18,Durban,Closed,Large
+19,Store_19,Gaborone,Closed,Small
+20,Store_20,Gaborone,Open,Medium
+21,Store_21,Port Elizabeth,Open,Large
+22,Store_22,Johannesburg,Closed,Small
+23,Store_23,Johannesburg,Closed,Small
+24,Store_24,Bloemfontein,Closed,Large
+25,Store_25,Nairobi,Open,Small
+26,Store_26,Accra,Closed,Large
+27,Store_27,Nairobi,Open,Large
+28,Store_28,Pretoria,Closed,Large
+29,Store_29,Gaborone,Closed,Medium
+30,Store_30,Johannesburg,Open,Medium
+31,Store_31,Port Elizabeth,Open,Medium
+32,Store_32,Accra,Open,Large
+33,Store_33,Gaborone,Open,Large
+34,Store_34,Johannesburg,Open,Large
+35,Store_35,Durban,Closed,Medium
+36,Store_36,Lagos,Open,Small
+37,Store_37,Gaborone,Closed,Large
+38,Store_38,Bloemfontein,Closed,Medium
+39,Store_39,Gaborone,Open,Small
+40,Store_40,Accra,Closed,Small
+41,Store_41,Johannesburg,Closed,Large
+42,Store_42,Cape Town,Open,Small
+43,Store_43,Johannesburg,Open,Large
+44,Store_44,Johannesburg,Open,Small
+45,Store_45,Pretoria,Closed,Medium
+46,Store_46,Pretoria,Open,Small
+47,Store_47,Bloemfontein,Open,Small
+48,Store_48,Durban,Open,Medium
+49,Store_49,Cape Town,Closed,Medium
+50,Store_50,Durban,Closed,Small
+51,Store_51,Port Elizabeth,Open,Large
+52,Store_52,Gaborone,Closed,Large
+53,Store_53,Nairobi,Closed,Large
+54,Store_54,Cape Town,Closed,Large
+55,Store_55,Cape Town,Open,Large
+56,Store_56,Durban,Open,Medium
+57,Store_57,Nairobi,Closed,Large
+58,Store_58,Bloemfontein,Closed,Small
+59,Store_59,Bloemfontein,Closed,Large
+60,Store_60,Port Elizabeth,Closed,Medium
+61,Store_61,Bloemfontein,Open,Small
+62,Store_62,Pretoria,Open,Large
+63,Store_63,Lagos,Closed,Small
+64,Store_64,Lagos,Open,Small
+65,Store_65,Nairobi,Open,Medium
+66,Store_66,Nairobi,Closed,Large
+67,Store_67,Accra,Closed,Large
+68,Store_68,Accra,Open,Medium
+69,Store_69,Johannesburg,Open,Small
+70,Store_70,Accra,Closed,Large
+71,Store_71,Port Elizabeth,Closed,Medium
+72,Store_72,Lagos,Closed,Large
+73,Store_73,Gaborone,Open,Large
+74,Store_74,Johannesburg,Open,Large
+75,Store_75,Durban,Closed,Medium
+76,Store_76,Cape Town,Open,Medium
+77,Store_77,Durban,Open,Large
+78,Store_78,Lagos,Closed,Large
+79,Store_79,Cape Town,Open,Large
+80,Store_80,Durban,Open,Small
+81,Store_81,Durban,Open,Large
+82,Store_82,Nairobi,Closed,Large
+83,Store_83,Pretoria,Open,Medium
+84,Store_84,Port Elizabeth,Closed,Medium
+85,Store_85,Lagos,Closed,Large
+86,Store_86,Durban,Closed,Small
+87,Store_87,Cape Town,Closed,Large
+88,Store_88,Durban,Closed,Large
+89,Store_89,Bloemfontein,Open,Small
+90,Store_90,Bloemfontein,Open,Medium
+91,Store_91,Gaborone,Closed,Small
+92,Store_92,Pretoria,Open,Small
+93,Store_93,Gaborone,Open,Large
+94,Store_94,Nairobi,Closed,Small
+95,Store_95,Nairobi,Closed,Medium
+96,Store_96,Nairobi,Open,Small
+97,Store_97,Nairobi,Open,Medium
+98,Store_98,Bloemfontein,Open,Large
+99,Store_99,Gaborone,Closed,Large
+100,Store_100,Gaborone,Closed,Medium
+101,Store_101,Pretoria,Open,Small
+102,Store_102,Lagos,Closed,Small
+103,Store_103,Cape Town,Closed,Medium
+104,Store_104,Johannesburg,Closed,Medium
+105,Store_105,Cape Town,Closed,Medium
+106,Store_106,Accra,Open,Medium
+107,Store_107,Pretoria,Closed,Medium
+108,Store_108,Durban,Open,Medium
+109,Store_109,Accra,Closed,Medium
+110,Store_110,Johannesburg,Open,Medium
+111,Store_111,Cape Town,Open,Large
+112,Store_112,Lagos,Closed,Small
+113,Store_113,Durban,Open,Large
+114,Store_114,Lagos,Closed,Medium
+115,Store_115,Johannesburg,Open,Small
+116,Store_116,Port Elizabeth,Closed,Large
+117,Store_117,Port Elizabeth,Open,Medium
+118,Store_118,Pretoria,Closed,Medium
+119,Store_119,Lagos,Closed,Large
+120,Store_120,Accra,Closed,Medium
