@@ -39,7 +39,7 @@ Utilizing efficient table joins:
   - Clearly defines join relationships
   - Allows for more precise join type selection
 
-- **Early Filtering**:
+- **Early Filtering (Feature suggested by AI - Chatgpt o3 mini)**:
   - Apply filters directly in JOIN conditions
   - Reduces dataset size early in query execution
   - Example: `o.order_date >= c.registration_date`
