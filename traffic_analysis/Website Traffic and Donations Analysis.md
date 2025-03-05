@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the advanced Python data engineering and analysis techniques used to process and analyze website traffic and donation data for 2023. The implementation emphasizes performance, maintainability, and simplicity—leveraging modular design, robust data validation, and clear visualizations to derive actionable insights.
+This document outlines Python data engineering and analysis techniques used to process and analyze website traffic and donation data for 2023. The implementation emphasizes performance, maintainability, and simplicity—leveraging modular design, robust data validation, and clear visualizations to derive actionable insights.
 
 ## Implementation Techniques
 
